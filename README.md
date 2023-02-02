@@ -4,7 +4,7 @@
 
 ## FULLSTACK PRACTICE PROJECT NO: 5
 
-1. A fullstack version of my previous frontend project to practice my skills using Javascript, NodeJS, ExpressJS, HTML, CSS.
+1. A fullstack version of my previous frontend project to practice my skills using Javascript, Jquery, NodeJS, ExpressJS, HTML, CSS.
 
 2. When we click to hamburger menu it opens the sidebar.
 
